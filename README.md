@@ -1,7 +1,5 @@
 # Grover’s Algorithm (Qiskit)
 
-Still in progress...
-
 This project implements **Grover’s quantum search algorithm** using **Qiskit**, focusing on a clear and structured implementation of the algorithm and its application to unstructured search problems. The project includes both simulation and execution on real quantum hardware, allowing for a direct comparison between ideal and noisy quantum results.
 
 ---
@@ -92,3 +90,7 @@ service = QiskitRuntimeService()
 ```
 
 - Be aware that queue times, hardware noise, and device calibration will affect results; compare hardware outputs to the notebook's simulated (ideal/noisy) runs.
+
+## License
+
+This project is licensed under the MIT License.
