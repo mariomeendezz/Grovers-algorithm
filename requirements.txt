@@ -2,3 +2,5 @@ qiskit
 qiskit-aer
 matplotlib
 pylatexenc
+numpy 
+qiskit-ibm-runtime 
