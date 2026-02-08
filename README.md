@@ -15,8 +15,7 @@ This project implements **Grover’s quantum search algorithm** using **Qiskit**
 - `figures/`  
   Contains the figures generated in the notebook (quantum circuits and visualizations) saved for inspection without re-running the code.
 
-
-- `reults/`  
+- `results/`  
   Contains a json with the results of the simulations without any noise, with artificial noise and executed on real quantum hardware
   
 ---
